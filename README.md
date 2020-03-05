@@ -8,7 +8,7 @@ The initial, original author is Adam Jacobs, who hopes to have many others contr
 
 One answer is to just do the tutorial, and you'll see why these two command line utilities have stood the test of time, having been used in the equivalent of production since 1977.
 
-Another is that when I polled my veteran industry friends - one of which is quite senior and doesn't get to do as much hands-on as they would like - they all felt `awk` and `sed` were important, and were readily able to find code snippets for me from scripts used in their production code.  These scripts included many complex `awk` and `sed` commands.  In one case, I was told that during the five minute discussion we had been having, the script we were looking at had probably been automaticaly triggered 10-15 times.
+Another is that when I polled my veteran industry friends - one of which is quite senior and doesn't get to do as much hands-on as they would like - they all felt `awk` and `sed` were important, and were readily able to find code snippets for me from scripts used in their production code (see `/industry_snippets/real_code.sh`).  These scripts included many complex `awk` and `sed` commands.  In one case, I was told that during the five minute discussion we had been having, the script we were looking at had probably been automaticaly triggered 10-15 times.
 
 For the purposes of Insight, I hope this is sufficient motivation.
 
