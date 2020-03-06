@@ -7,3 +7,6 @@
 # in this directory.
 
 #  
+# Convert a CR/LF file to LF with sed - note that the ^M special character
+# is created by doing ctrl+v ctrl+m
+sed 's/$//' sample_crlf.csv  > sample_lf.csv
